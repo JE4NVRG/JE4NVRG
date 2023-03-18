@@ -9,11 +9,6 @@ Desenvolvedor de software apaixonado por tecnologia e sempre buscando aprender a
 - [LinkedIn](https://www.linkedin.com/in/jean-vargas-93bbb31b4/)
 - [Twitch](https://www.twitch.tv/jcvplay)
 
-### Experiência Profissional
-Adicione aqui sua experiência profissional, se aplicável.
-
-### Formação Acadêmica
-Adicione aqui sua formação acadêmica, se aplicável.
 
 ### Tecnologias que eu uso no meu dia
 <p align="center">
