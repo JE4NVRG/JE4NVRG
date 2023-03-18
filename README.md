@@ -29,4 +29,6 @@ Adicione aqui sua formação acadêmica, se aplicável.
 </p>
 
 ### Estatísticas do GitHub
-![JE4NVRG GitHub stats](https://github-readme-stats.vercel.app/api?username=JE4NVRG&show_icons=true&theme=dracula)
+![Gráfico de contribuições](https://github-readme-stats.vercel.app/api?username=JE4NVRG&count_private=true&theme=dracula)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JE4NVRG&layout=compact&theme=dracula)
