@@ -54,21 +54,65 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JE4NVRG&show_icons=true&count_private=true&theme=dracula&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JE4NVRG&layout=compact&theme=dracula&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JE4NVRG&theme=dracula&hide_border=true)
+<!-- GitHub Stats Card -->
+<a href="https://github.com/JE4NVRG">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JE4NVRG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
+<a href="https://github.com/JE4NVRG">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JE4NVRG&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+</a>
 
 </div>
 
 ---
 
+## 🔥 Streak Stats
+
 <div align="center">
 
-### 🐍 Contribuições
+[![GitHub Streak](https://streak-stats.demolab.com?user=JE4NVRG&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://git.io/streak-stats)
 
-![Snake animation](https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/github-contribution-grid-snake-dark.svg)
+</div>
+
+---
+
+## 🏆 Troféus do GitHub
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JE4NVRG&theme=dracula&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Gráfico de Atividade
+
+<div align="center">
+
+[![JE4NVRG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JE4NVRG&theme=dracula&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## ⚡ Atividade Recente
+
+<!--START_SECTION:activity-->
+<!-- Esta seção pode ser atualizada automaticamente com GitHub Actions -->
+<!--END_SECTION:activity-->
+
+<div align="center">
+
+### 👀 Visualizações do Perfil
+
+![Profile Views](https://komarev.com/ghpvc/?username=JE4NVRG&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
+
+### 📫 Contato
+
+Se você tiver alguma dúvida ou quiser colaborar, fique à vontade para me contatar!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanvrg@outlook.com)
 
 </div>
 
