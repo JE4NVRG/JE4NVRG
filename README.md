@@ -2,13 +2,13 @@
 
 # Hey, I'm Jean Carlos Vargas 👋
 
-**Full Stack Developer · SaaS Builder · AI-Powered Automation**
+**Full-Stack Engineer · SaaS, Internal Tools & AI Automation**
 
-Building scalable digital products from zero to production — with real users, real metrics, and real revenue.
+Building web products, business systems and automations from idea to delivery.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-vargas-93bbb31b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/je4ndev/)
 [![Twitter](https://img.shields.io/badge/X_%28Twitter%29-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/JE4NVRG)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeanvargas.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://je4ndev.com)
 
 </div>
 
@@ -16,11 +16,11 @@ Building scalable digital products from zero to production — with real users, 
 
 ## 🧠 About me
 
-I'm a developer and entrepreneur from **Paranavaí, Brazil** who doesn't just write code — I build products.
+I'm a developer and entrepreneur from **Paranavaí, Brazil** focused on building **SaaS products, internal tools and AI automations**.
 
-Over the past years I've launched SaaS platforms, trading bots, management systems and automation tools. I care about the full lifecycle: validation, architecture, deploy, metrics and monetization. My code ships to production and serves real customers.
+I work across the full stack: frontend, backend, auth, payments, APIs, dashboards, automation workflows and deployment. Before software, I co-founded and operated a FTTH internet provider — which gave me a strong operations and business mindset that still shapes how I build.
 
-Currently focused on **AI-powered applications**, **SaaS products** and **process automation** for businesses.
+Currently open to **remote contract work worldwide**, especially for startups and businesses that need speed, ownership and practical execution.
 
 ---
 
@@ -30,7 +30,7 @@ Currently focused on **AI-powered applications**, **SaaS products** and **proces
 |------|-----------|
 | **SaaS & Web Apps** | Full-stack products with auth, payments, dashboards and analytics |
 | **AI Integration** | LLM-powered features, intelligent agents and automation pipelines |
-| **Trading Bots** | Automated strategies for crypto markets (Binance Futures) |
+| **Internal Tools** | Dashboards, back-office flows and operational systems for teams |
 | **Business Systems** | Order management, financial tools and ERP-style platforms |
 
 ---
@@ -68,11 +68,11 @@ Currently focused on **AI-powered applications**, **SaaS products** and **proces
 
 ## 🚀 Featured Projects
 
-> 💡 *Most of my production projects are private. Here are some highlights:*
+> 💡 *A mix of public showcases, private work and product experiments.*
 
 🔹 **[Vultrix](https://github.com/JE4NVRG/Vultrix)** — Complete management system for 3D printing businesses. Built with TypeScript + Supabase.
 
-🔹 **Trading Bots** — Automated trading strategies for Binance Futures. Real-time execution with risk management.
+🔹 **Automation & AI tools** — Internal workflows, bots and integrations for real operational use cases.
 
 🔹 **Order Management System** — Integration with Mercado Livre for order processing and fulfillment automation.
 
@@ -95,8 +95,8 @@ Currently focused on **AI-powered applications**, **SaaS products** and **proces
 
 <div align="center">
 
-**🔨 Building products. Not just features.**
+**🔨 Available for remote contract work worldwide.**
 
-*107 repos · 1,100+ contributions this year · TypeScript 85%*
+*Portfolio: je4ndev.com · GitHub: JE4NVRG · Focus: SaaS, internal tools and AI automation*
 
 </div>
