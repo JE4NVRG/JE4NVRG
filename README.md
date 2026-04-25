@@ -2,12 +2,12 @@
 
 # Hey, I'm Jean Carlos Vargas 👋
 
-**Full-Stack Engineer · SaaS, Internal Tools & AI Automation**
+**Full-Stack Engineer · SaaS Builder · AI Automation · Solidity/EVM Security Researcher**
 
-Building web products, business systems and automations from idea to delivery.
+I build systems that make or protect money — SaaS products, AI agents, internal tools and smart contract security workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/je4ndev/)
-[![Twitter](https://img.shields.io/badge/X_%28Twitter%29-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/JE4NVRG)
+[![X](https://img.shields.io/badge/X_%28Twitter%29-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JE4NVRG)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://je4ndev.com)
 
 </div>
@@ -16,9 +16,11 @@ Building web products, business systems and automations from idea to delivery.
 
 ## 🧠 About me
 
-I'm a developer and entrepreneur from **Paranavaí, Brazil** focused on building **SaaS products, internal tools and AI automations**.
+I'm a developer and entrepreneur from **Paranavaí, Brazil** focused on building **SaaS products, AI automations, internal tools and Web3 security tooling**.
 
-I work across the full stack: frontend, backend, auth, payments, APIs, dashboards, automation workflows and deployment. Before software, I co-founded and operated a FTTH internet provider — which gave me a strong operations and business mindset that still shapes how I build.
+I work across the full stack: frontend, backend, auth, payments, APIs, dashboards, automation workflows, deployment and agent-based systems. Before software, I co-founded and operated a FTTH internet provider — an experience that gave me a strong operations, finance and business execution mindset.
+
+On the security side, I research **Solidity/EVM smart contracts**, write **Foundry PoCs**, validate exploit paths and focus on practical vulnerabilities with measurable impact.
 
 Currently open to **remote contract work worldwide**, especially for startups and businesses that need speed, ownership and practical execution.
 
@@ -28,10 +30,25 @@ Currently open to **remote contract work worldwide**, especially for startups an
 
 | Area | What I do |
 |------|-----------|
-| **SaaS & Web Apps** | Full-stack products with auth, payments, dashboards and analytics |
-| **AI Integration** | LLM-powered features, intelligent agents and automation pipelines |
+| **SaaS & Web Apps** | Full-stack products with auth, payments, dashboards, analytics and deployment |
+| **AI Agents & Automation** | LLM-powered workflows, internal agents, WhatsApp automation and business pipelines |
 | **Internal Tools** | Dashboards, back-office flows and operational systems for teams |
-| **Business Systems** | Order management, financial tools and ERP-style platforms |
+| **Business Systems** | Order management, financial tools, ERP-style platforms and integrations |
+| **Smart Contract Security** | Solidity/EVM review, Foundry PoCs, exploit validation and audit tooling |
+
+---
+
+## 🔐 Security Research
+
+I focus on **real, reproducible vulnerabilities** — not theoretical reports.
+
+- Solidity / EVM smart contract security
+- Foundry-based exploit PoCs and fork testing
+- Slither and Echidna-assisted review workflows
+- DeFi protocol analysis: accounting, access control, liquidity, vaults, oracles and upgradeability
+- Completed **Damn Vulnerable DeFi 18/18** with writeups
+- Audit/contest experience across platforms like **Sherlock, Cantina, CodeHawks and Immunefi**
+- Previous audit work includes protocols such as **Kleidi, Morpho, Polymarket, Lombard, Scroll, Pinto and Fira**
 
 ---
 
@@ -61,22 +78,33 @@ Currently open to **remote contract work worldwide**, especially for startups an
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Web3 Security**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)
+![Slither](https://img.shields.io/badge/Slither-4B5563?style=flat-square)
+![Echidna](https://img.shields.io/badge/Echidna-6B7280?style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-> 💡 *A mix of public showcases, private work and product experiments.*
+> 💡 A mix of public showcases, private production systems, audit work and product experiments.
 
 🔹 **[Vultrix](https://github.com/JE4NVRG/Vultrix)** — Complete management system for 3D printing businesses. Built with TypeScript + Supabase.
 
-🔹 **Automation & AI tools** — Internal workflows, bots and integrations for real operational use cases.
+🔹 **AI agents & automation systems** — Internal workflows, bots and integrations for real operational use cases.
 
 🔹 **Order Management System** — Integration with Mercado Livre for order processing and fulfillment automation.
 
 🔹 **Financial Dashboard** — Business analytics and financial control platform with real-time data.
+
+🔹 **Smart Contract Security Lab** — Solidity/EVM research, Foundry PoCs, audit notes and vulnerability writeups.
 
 ---
 
@@ -97,6 +125,6 @@ Currently open to **remote contract work worldwide**, especially for startups an
 
 **🔨 Available for remote contract work worldwide.**
 
-*Portfolio: je4ndev.com · GitHub: JE4NVRG · Focus: SaaS, internal tools and AI automation*
+*Portfolio: je4ndev.com · GitHub: JE4NVRG · Focus: SaaS, AI automation, internal tools and smart contract security*
 
 </div>
