@@ -1,130 +1,177 @@
 <div align="center">
 
-# Hey, I'm Jean Carlos Vargas 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,45:111827,100:2563EB&text=Jean%20Carlos%20Vargas&fontColor=F8FAFC&fontSize=44&fontAlignY=36&desc=Full-Stack%20Builder%20%7C%20AI%20Agents%20%7C%20SaaS%20%7C%20Web3%20Security&descAlignY=60&animation=fadeIn" />
 
-**Full-Stack Engineer · SaaS Builder · AI Automation · Solidity/EVM Security Researcher**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=I+build+systems+that+make+or+protect+money.;SaaS+products%2C+AI+agents+and+internal+tools.;Marketplace+automation%2C+dashboards+and+business+ops.;Solidity%2FEVM+security+with+real+Foundry+PoCs.)](https://git.io/typing-svg)
 
-I build systems that make or protect money — SaaS products, AI agents, internal tools and smart contract security workflows.
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/je4ndev/)
-[![X](https://img.shields.io/badge/X_%28Twitter%29-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JE4NVRG)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://je4ndev.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-je4ndev.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://je4ndev.com)
+[![X](https://img.shields.io/badge/X-@JE4NVRG-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JE4NVRG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-je4ndev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/je4ndev/)
+[![GitHub](https://img.shields.io/badge/GitHub-JE4NVRG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JE4NVRG)
+
+<br />
+<br />
+
+**Available for remote contract work worldwide**<br />
+*SaaS · AI agents · internal tools · marketplace automation · Web3 security*
 
 </div>
 
 ---
 
-## 🧠 About me
+## 👋 Hey, I'm Jean
 
-I'm a developer and entrepreneur from **Paranavaí, Brazil** focused on building **SaaS products, AI automations, internal tools and Web3 security tooling**.
+I'm a full-stack developer and entrepreneur building **SaaS products, AI-agent workflows, internal tools, dashboards and Web3 security tooling**.
 
-I work across the full stack: frontend, backend, auth, payments, APIs, dashboards, automation workflows, deployment and agent-based systems. Before software, I co-founded and operated a FTTH internet provider — an experience that gave me a strong operations, finance and business execution mindset.
+My strongest lane is practical execution: turning messy business operations into working systems with auth, databases, APIs, automation, payments, dashboards, deployment and human approval gates.
 
-On the security side, I research **Solidity/EVM smart contracts**, write **Foundry PoCs**, validate exploit paths and focus on practical vulnerabilities with measurable impact.
+I also research **Solidity/EVM security**, validate exploit paths with **Foundry PoCs**, and focus on vulnerabilities with real impact instead of theoretical reports.
 
-Currently open to **remote contract work worldwide**, especially for startups and businesses that need speed, ownership and practical execution.
-
----
-
-## 🏗️ What I build
-
-| Area | What I do |
-|------|-----------|
-| **SaaS & Web Apps** | Full-stack products with auth, payments, dashboards, analytics and deployment |
-| **AI Agents & Automation** | LLM-powered workflows, internal agents, WhatsApp automation and business pipelines |
-| **Internal Tools** | Dashboards, back-office flows and operational systems for teams |
-| **Business Systems** | Order management, financial tools, ERP-style platforms and integrations |
-| **Smart Contract Security** | Solidity/EVM review, Foundry PoCs, exploit validation and audit tooling |
+```txt
+Core thesis
+├─ Make money: SaaS, dashboards, marketplaces, automation and client operations
+├─ Protect money: Web3 security, exploit validation, infra and approval gates
+└─ Build with leverage: AI agents, context, tools, memory and evidence trails
+```
 
 ---
 
-## 🔐 Security Research
+## 🚀 What I can help with
 
-I focus on **real, reproducible vulnerabilities** — not theoretical reports.
-
-- Solidity / EVM smart contract security
-- Foundry-based exploit PoCs and fork testing
-- Slither and Echidna-assisted review workflows
-- DeFi protocol analysis: accounting, access control, liquidity, vaults, oracles and upgradeability
-- Completed **Damn Vulnerable DeFi 18/18** with writeups
-- Audit/contest experience across platforms like **Sherlock, Cantina, CodeHawks and Immunefi**
-- Previous audit work includes protocols such as **Kleidi, Morpho, Polymarket, Lombard, Scroll, Pinto and Fira**
+| Need | What I build |
+|---|---|
+| **Launch a SaaS or web app** | Next.js/React products with auth, payments, dashboards, APIs and deployment |
+| **Automate business operations** | WhatsApp, marketplace, CRM, financial and back-office workflows |
+| **Add AI agents to real workflows** | Tool-using agents, browser/CDP automation, memory, approval gates and evidence trails |
+| **Fix or ship internal tools fast** | Admin panels, data flows, integrations, scripts, VPS/Vercel/Supabase production fixes |
+| **Validate Web3/security risk** | Solidity/EVM review, Foundry PoCs, fork tests and practical exploit analysis |
 
 ---
 
-## ⚡ Tech Stack
+## 🧪 Selected builds
+
+| Build | Type | What it proves |
+|---|---|---|
+| [**je4ndev.com**](https://je4ndev.com) / [source](https://github.com/JE4NVRG/jeanvargas.dev) | Portfolio + service surface | Product positioning, frontend delivery and public proof |
+| [**Vultrix**](https://github.com/JE4NVRG/Vultrix) | Vertical SaaS / operations dashboard | Customers, jobs, pricing, operations, finance and workflow control |
+| [**MepChat landing**](https://github.com/JE4NVRG/mepchat-landing) | WhatsApp support product landing | Low-ticket SaaS packaging, offer clarity and conversion surface |
+| **Hermes/OpenClaw agent workflows** | AI agent operations | Local agents connected to tools, browsers, APIs, memory and approval gates |
+| **Smart contract security lab** | Web3/security research | Solidity review, Foundry PoCs, fork tests and exploit validation |
+
+> Some production systems and client/internal workflows are private. The public repos show the execution style; the real value is shipping useful systems end-to-end.
+
+---
+
+## 🧠 Currently building
+
+- AI-agent workflows for real operators, not just chat demos.
+- SaaS/internal tools for small teams that need speed and ownership.
+- Marketplace and WhatsApp automation systems for Brazilian businesses.
+- Practical Web3/security research with reproducible PoCs.
+- Productized services that help people **make or protect money**.
+
+---
+
+## 🕹️ Contribution arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## ⚙️ Main stack
 
 <div align="center">
 
-**Frontend**
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend & Infra**
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**Web3 Security**
-
+![Linux VPS](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)
-![Slither](https://img.shields.io/badge/Slither-4B5563?style=flat-square)
-![Echidna](https://img.shields.io/badge/Echidna-6B7280?style=flat-square)
 
 </div>
 
----
+<details>
+<summary><b>More tools I use</b></summary>
 
-## 🚀 Featured Work
+<br />
 
-> 💡 A mix of public showcases, private production systems, audit work and product experiments.
+- **Frontend/Product:** React, Next.js, Vite, Tailwind, shadcn/ui, dashboards and admin panels.
+- **Backend/Data:** Node.js, REST APIs, PostgreSQL, Supabase, auth, storage and integrations.
+- **AI/Automation:** OpenAI, Anthropic/Claude, xAI/Grok, browser automation, cron jobs, tool routing and agent memory.
+- **Infra:** Vercel, Linux VPS, GitHub Actions, monitoring, deployment fixes and operational scripts.
+- **Security:** Solidity, Foundry, Slither, Echidna, fork tests and exploit PoCs.
 
-🔹 **[Vultrix](https://github.com/JE4NVRG/Vultrix)** — Complete management system for 3D printing businesses. Built with TypeScript + Supabase.
-
-🔹 **AI agents & automation systems** — Internal workflows, bots and integrations for real operational use cases.
-
-🔹 **Order Management System** — Integration with Mercado Livre for order processing and fulfillment automation.
-
-🔹 **Financial Dashboard** — Business analytics and financial control platform with real-time data.
-
-🔹 **Smart Contract Security Lab** — Solidity/EVM research, Foundry PoCs, audit notes and vulnerability writeups.
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## 🔐 Security research
+
+I focus on **real, reproducible vulnerabilities**.
+
+- Solidity / EVM smart contract review.
+- Foundry exploit PoCs and fork testing.
+- DeFi protocol analysis: accounting, liquidity, vaults, oracles, access control and upgrades.
+- Slither/Echidna-assisted review workflows.
+- Damn Vulnerable DeFi 18/18 with writeups.
+- Audit/contest experience across Sherlock, Cantina, CodeHawks and Immunefi.
+
+---
+
+## 📈 GitHub activity snapshot
+
+Compact activity view focused on execution signals: contributions, commits, PRs, issues and private-work signals.
+
+| Signal | Current snapshot |
+|---|---:|
+| Contributions in the last year | **6,212** |
+| Public repositories | **50** |
+| Commits in the last year | **351** |
+| Pull requests in the last year | **31** |
+| Issues / ops items in the last year | **645** |
+| Private/restricted contributions | **5,143** |
+
+**Main public repo languages:** TypeScript · JavaScript · HTML · CSS · Solidity · Python
+
+<details>
+<summary><b>Optional GitHub charts</b></summary>
+
+<br />
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JE4NVRG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JE4NVRG&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JE4NVRG&theme=github_dark" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JE4NVRG&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<br />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JE4NVRG&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JE4NVRG&theme=github_dark" />
 
 </div>
 
+</details>
+
 ---
 
 <div align="center">
 
-**🔨 Available for remote contract work worldwide.**
+### Let's build something useful
 
-*Portfolio: je4ndev.com · GitHub: JE4NVRG · Focus: SaaS, AI automation, internal tools and smart contract security*
+**SaaS · AI agents · internal tools · marketplace automation · Web3 security**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563EB,100:0D1117" />
 
 </div>
