@@ -76,11 +76,11 @@ Core thesis
 
 ## 🕹️ Contribution arcade
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+
+<img alt="Pac-Man contribution graph" width="100%" src="https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/pacman-contribution-graph.svg" />
+
+</div>
 
 ---
 
