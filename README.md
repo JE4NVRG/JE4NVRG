@@ -11,6 +11,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-je4ndev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/je4ndev/)
 [![GitHub](https://img.shields.io/badge/GitHub-JE4NVRG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JE4NVRG)
 
+<br />
+<br />
+
+**Available for remote contract work worldwide**<br />
+*SaaS · AI agents · internal tools · marketplace automation · Web3 security*
+
 </div>
 
 ---
@@ -24,63 +30,47 @@ My strongest lane is practical execution: turning messy business operations into
 I also research **Solidity/EVM security**, validate exploit paths with **Foundry PoCs**, and focus on vulnerabilities with real impact instead of theoretical reports.
 
 ```txt
-Current focus
-├─ SaaS and internal tools for real businesses
-├─ AI agents, Hermes/OpenClaw workflows and automation
-├─ Marketplace/e-commerce operations and dashboards
-├─ Web3 security research, Foundry PoCs and audit tooling
-└─ Productized systems that help people make or protect money
+Core thesis
+├─ Make money: SaaS, dashboards, marketplaces, automation and client operations
+├─ Protect money: Web3 security, exploit validation, infra and approval gates
+└─ Build with leverage: AI agents, context, tools, memory and evidence trails
 ```
 
 ---
 
-## 🧠 Operating thesis
+## 🚀 What I can help with
 
-> Models are becoming a commodity. The edge is context, tools, memory, workflows, approval gates and evidence.
-
-I like building systems where AI agents are not just chatbots. They read the right context, use scoped tools, draft actions, ask for approval and leave a trace of what happened.
-
-| Layer | What I build |
+| Need | What I build |
 |---|---|
-| **Product systems** | SaaS, dashboards, client portals, workflows and admin panels |
-| **AgentOps** | AI agents connected to tools, memory, browsers, APIs and approval gates |
-| **Business automation** | WhatsApp, marketplace, CRM, financial and operational pipelines |
-| **Security research** | Solidity/EVM review, Foundry PoCs, invariant ideas and exploit validation |
-| **Infra & delivery** | Vercel, VPS, Supabase, PostgreSQL, CI, monitoring and production fixes |
+| **Launch a SaaS or web app** | Next.js/React products with auth, payments, dashboards, APIs and deployment |
+| **Automate business operations** | WhatsApp, marketplace, CRM, financial and back-office workflows |
+| **Add AI agents to real workflows** | Tool-using agents, browser/CDP automation, memory, approval gates and evidence trails |
+| **Fix or ship internal tools fast** | Admin panels, data flows, integrations, scripts, VPS/Vercel/Supabase production fixes |
+| **Validate Web3/security risk** | Solidity/EVM review, Foundry PoCs, fork tests and practical exploit analysis |
 
 ---
 
-## 🚀 Featured work
+## 🧪 Selected builds
 
-### 🤖 AI agents & operational automation
+| Build | Type | What it proves |
+|---|---|---|
+| [**je4ndev.com**](https://je4ndev.com) / [source](https://github.com/JE4NVRG/jeanvargas.dev) | Portfolio + service surface | Product positioning, frontend delivery and public proof |
+| [**Vultrix**](https://github.com/JE4NVRG/Vultrix) | Vertical SaaS / operations dashboard | Customers, jobs, pricing, operations, finance and workflow control |
+| [**MepChat landing**](https://github.com/JE4NVRG/mepchat-landing) | WhatsApp support product landing | Low-ticket SaaS packaging, offer clarity and conversion surface |
+| **Hermes/OpenClaw agent workflows** | AI agent operations | Local agents connected to tools, browsers, APIs, memory and approval gates |
+| **Smart contract security lab** | Web3/security research | Solidity review, Foundry PoCs, fork tests and exploit validation |
 
-Private and public workflows using Hermes/OpenClaw-style agents, browser/CDP automation, tool routing, memory, skills, cron jobs, approval gates and evidence trails.
+> Some production systems and client/internal workflows are private. The public repos show the execution style; the real value is shipping useful systems end-to-end.
 
-**What this proves:** I can build AI systems that operate inside real workflows, not just prompt demos.
+---
 
-### 🛒 Marketplace / order management systems
+## 🧠 Currently building
 
-Operational systems for Mercado Livre-style workflows: listings, stock, orders, clients, financial views, dashboards, support and safe publishing gates.
-
-**What this proves:** I can turn e-commerce chaos into a usable business cockpit.
-
-### 📊 Business dashboards & internal tools
-
-Financial dashboards, admin panels, client portals, support views, analytics and back-office tools for small teams and operators.
-
-**What this proves:** I understand product, operations and execution, not only code.
-
-### 🧪 Smart contract security lab
-
-Solidity/EVM research with Foundry PoCs, fork tests, Slither/Echidna-assisted workflows and practical vulnerability validation.
-
-**What this proves:** I can reason about systems where mistakes cost real money.
-
-### 🏭 Vultrix, vertical SaaS case study
-
-[Vultrix](https://github.com/JE4NVRG/Vultrix) is a vertical SaaS / operations dashboard for a production business, built with TypeScript + Supabase.
-
-**Positioning note:** the domain was 3D printing, but the real value is the SaaS pattern: customers, jobs, pricing, operations, finance and workflow control.
+- AI-agent workflows for real operators, not just chat demos.
+- SaaS/internal tools for small teams that need speed and ownership.
+- Marketplace and WhatsApp automation systems for Brazilian businesses.
+- Practical Web3/security research with reproducible PoCs.
+- Productized services that help people **make or protect money**.
 
 ---
 
@@ -94,39 +84,37 @@ Solidity/EVM research with Foundry PoCs, fork tests, Slither/Echidna-assisted wo
 
 ---
 
-## ⚙️ Tech stack
+## ⚙️ Main stack
 
 <div align="center">
 
-### Product & Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### Backend, Data & Infra
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux VPS](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### AI, Agents & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![xAI](https://img.shields.io/badge/xAI%20%2F%20Grok-000000?style=flat-square&logo=x&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Browser Automation](https://img.shields.io/badge/Browser%20Automation-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-
-### Web3 Security
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)
-![Slither](https://img.shields.io/badge/Slither-4B5563?style=flat-square)
-![Echidna](https://img.shields.io/badge/Echidna-6B7280?style=flat-square)
 
 </div>
+
+<details>
+<summary><b>More tools I use</b></summary>
+
+<br />
+
+- **Frontend/Product:** React, Next.js, Vite, Tailwind, shadcn/ui, dashboards and admin panels.
+- **Backend/Data:** Node.js, REST APIs, PostgreSQL, Supabase, auth, storage and integrations.
+- **AI/Automation:** OpenAI, Anthropic/Claude, xAI/Grok, browser automation, cron jobs, tool routing and agent memory.
+- **Infra:** Vercel, Linux VPS, GitHub Actions, monitoring, deployment fixes and operational scripts.
+- **Security:** Solidity, Foundry, Slither, Echidna, fork tests and exploit PoCs.
+
+</details>
 
 ---
 
@@ -134,16 +122,34 @@ Solidity/EVM research with Foundry PoCs, fork tests, Slither/Echidna-assisted wo
 
 I focus on **real, reproducible vulnerabilities**.
 
-- Solidity / EVM smart contract review
-- Foundry exploit PoCs and fork testing
-- DeFi protocol analysis: accounting, liquidity, vaults, oracles, access control and upgrades
-- Slither/Echidna-assisted review workflows
-- Damn Vulnerable DeFi 18/18 with writeups
-- Audit/contest experience across Sherlock, Cantina, CodeHawks and Immunefi
+- Solidity / EVM smart contract review.
+- Foundry exploit PoCs and fork testing.
+- DeFi protocol analysis: accounting, liquidity, vaults, oracles, access control and upgrades.
+- Slither/Echidna-assisted review workflows.
+- Damn Vulnerable DeFi 18/18 with writeups.
+- Audit/contest experience across Sherlock, Cantina, CodeHawks and Immunefi.
 
 ---
 
-## 📈 GitHub stats
+## 📈 GitHub activity snapshot
+
+Compact activity view focused on execution signals: contributions, commits, PRs, issues and private-work signals.
+
+| Signal | Current snapshot |
+|---|---:|
+| Contributions in the last year | **6,212** |
+| Public repositories | **50** |
+| Commits in the last year | **351** |
+| Pull requests in the last year | **31** |
+| Issues / ops items in the last year | **645** |
+| Private/restricted contributions | **5,143** |
+
+**Main public repo languages:** TypeScript · JavaScript · HTML · CSS · Solidity · Python
+
+<details>
+<summary><b>Optional GitHub charts</b></summary>
+
+<br />
 
 <div align="center">
 
@@ -154,22 +160,15 @@ I focus on **real, reproducible vulnerabilities**.
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JE4NVRG&theme=github_dark" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JE4NVRG&theme=github_dark" />
 
-<br />
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JE4NVRG&theme=github_dark" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JE4NVRG&theme=github_dark&utcOffset=-3" />
-
-<br />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=JE4NVRG&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
 </div>
+
+</details>
 
 ---
 
 <div align="center">
 
-### Available for remote contract work worldwide
+### Let's build something useful
 
 **SaaS · AI agents · internal tools · marketplace automation · Web3 security**
 
