@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">JE4NDEV product engineering banner</title>
+  <desc id="desc">Premium dark banner for Jean Carlos Vargas, focused on SaaS, AI workflows and reliable production systems.</desc>
+  <defs>
+    <linearGradient id="cyanViolet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#5EEAD4" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="#050505"/>
+  <rect width="1280" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1120" cy="45" r="250" fill="url(#glowViolet)"/>
+  <circle cx="900" cy="300" r="240" fill="url(#glowCyan)"/>
+  <rect x="1" y="1" width="1278" height="318" rx="23" fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="2"/>
+
+  <g transform="translate(70 58)">
+    <g transform="translate(0 0)">
+      <circle cx="7" cy="7" r="7" fill="#10B981"/>
+      <circle cx="7" cy="7" r="13" fill="#10B981" fill-opacity="0.12"/>
+      <text x="28" y="13" fill="#D4D4D8" font-family="Geist Mono, ui-monospace, Consolas, monospace" font-size="17" letter-spacing="2.1">PRODUCT ENGINEERING / SYSTEMS IN PRODUCTION</text>
+    </g>
+
+    <text x="0" y="105" fill="#FFFFFF" font-family="Geist, Inter, Segoe UI, Arial, sans-serif" font-size="82" font-weight="760" letter-spacing="-4">JE4NDEV</text>
+    <rect x="0" y="128" width="500" height="3" rx="1.5" fill="url(#cyanViolet)"/>
+    <text x="0" y="172" fill="#E4E4E7" font-family="Geist, Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="520" letter-spacing="-0.4">SaaS · AI workflows · reliable production</text>
+    <text x="0" y="211" fill="#A1A1AA" font-family="Geist Mono, ui-monospace, Consolas, monospace" font-size="16" letter-spacing="1.1">JEAN CARLOS VARGAS  /  SENIOR FULL-STACK PRODUCT ENGINEER</text>
+  </g>
+
+  <g transform="translate(805 50)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M58 64L170 36L282 86L374 48M58 64L114 164L232 206L354 166M170 36L232 206M282 86L232 206M114 164L282 86M354 166L282 86" stroke="#ffffff" stroke-opacity="0.09" stroke-width="2"/>
+    <path d="M58 64L170 36L282 86" stroke="url(#cyanViolet)" stroke-opacity="0.78" stroke-width="2.5"/>
+    <path d="M114 164L232 206L354 166" stroke="url(#cyanViolet)" stroke-opacity="0.55" stroke-width="2.5"/>
+
+    <g>
+      <circle cx="58" cy="64" r="19" fill="#0A0A0A" stroke="#5EEAD4" stroke-opacity="0.55" stroke-width="2"/>
+      <circle cx="58" cy="64" r="5" fill="#5EEAD4"/>
+      <circle cx="170" cy="36" r="16" fill="#0A0A0A" stroke="#ffffff" stroke-opacity="0.18"/>
+      <circle cx="170" cy="36" r="4" fill="#D4D4D8"/>
+      <circle cx="282" cy="86" r="23" fill="#0A0A0A" stroke="#8B5CF6" stroke-opacity="0.66" stroke-width="2"/>
+      <circle cx="282" cy="86" r="7" fill="#8B5CF6"/>
+      <circle cx="374" cy="48" r="14" fill="#0A0A0A" stroke="#ffffff" stroke-opacity="0.15"/>
+      <circle cx="374" cy="48" r="3.5" fill="#A1A1AA"/>
+      <circle cx="114" cy="164" r="17" fill="#0A0A0A" stroke="#10B981" stroke-opacity="0.60"/>
+      <circle cx="114" cy="164" r="4" fill="#10B981"/>
+      <circle cx="232" cy="206" r="30" fill="#0A0A0A" stroke="url(#cyanViolet)" stroke-width="2"/>
+      <text x="232" y="213" text-anchor="middle" fill="#FFFFFF" font-family="Geist Mono, ui-monospace, Consolas, monospace" font-size="18" font-weight="700">JD</text>
+      <circle cx="354" cy="166" r="17" fill="#0A0A0A" stroke="#EC4899" stroke-opacity="0.48"/>
+      <circle cx="354" cy="166" r="4" fill="#EC4899"/>
+    </g>
+
+    <circle cx="282" cy="86" r="31" stroke="#8B5CF6" stroke-opacity="0.15" stroke-width="5" filter="url(#softGlow)"/>
+    <circle cx="58" cy="64" r="27" stroke="#5EEAD4" stroke-opacity="0.12" stroke-width="5" filter="url(#softGlow)"/>
+  </g>
+</svg>
