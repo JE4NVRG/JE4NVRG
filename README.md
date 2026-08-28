@@ -1,165 +1,134 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,45:111827,100:2563EB&text=Jean%20Carlos%20Vargas&fontColor=F8FAFC&fontSize=44&fontAlignY=36&desc=Full-Stack%20Builder%20%7C%20AI%20Agents%20%7C%20SaaS%20%7C%20Web3%20Security&descAlignY=60&animation=fadeIn" />
+<h1>Jean Carlos Vargas</h1>
+<h3>Senior Full-Stack Product Engineer · Technical Founder</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=I+build+systems+that+make+or+protect+money.;SaaS+products%2C+AI+agents+and+internal+tools.;Marketplace+automation%2C+dashboards+and+business+ops.;Solidity%2FEVM+security+with+real+Foundry+PoCs.)](https://git.io/typing-svg)
+<p>I take full-stack SaaS and AI-assisted workflows from business problem to reliable production.</p>
 
-<br />
+<p><strong><a href="https://je4ndev.com">View live products</a></strong><br />
+<a href="mailto:jean@je4ndev.com">jean@je4ndev.com</a></p>
+<p><a href="https://www.linkedin.com/in/je4ndev/">LinkedIn</a> · <a href="https://x.com/JE4NVRG">X @JE4NVRG</a></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-je4ndev.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://je4ndev.com)
-[![X](https://img.shields.io/badge/X-@JE4NVRG-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JE4NVRG)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-je4ndev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/je4ndev/)
-[![GitHub](https://img.shields.io/badge/GitHub-JE4NVRG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JE4NVRG)
-
-<br />
-<br />
-
-**Available for remote contract work worldwide**<br />
-*SaaS · AI agents · internal tools · marketplace automation · Web3 security*
+<p><strong>Open to remote Senior / Founding Engineer roles, selected contracts and product partnerships.</strong></p>
 
 </div>
 
----
+## What I am building now
 
-## 👋 Hey, I'm Jean
+### [FullCommerce360](https://fullcommerce360.com) · LIVE
 
-I'm a full-stack developer and entrepreneur building **SaaS products, AI-agent workflows, internal tools, dashboards and Web3 security tooling**.
+Marketplace operations for Mercado Livre: research and margin, listing preparation, orders, stock and customer context with human approval before publishing.
 
-My strongest lane is practical execution: turning messy business operations into working systems with auth, databases, APIs, automation, payments, dashboards, deployment and human approval gates.
+**Proof:** public product surface and guided demo are live.<br />
+**My role:** product direction, full-stack architecture, safety boundaries, production and acceptance QA.
 
-I also research **Solidity/EVM security**, validate exploit paths with **Foundry PoCs**, and focus on vulnerabilities with real impact instead of theoretical reports.
+### [ArchScene](https://archscene.com) · PUBLIC BETA
 
-```txt
-Core thesis
-├─ Make money: SaaS, dashboards, marketplaces, automation and client operations
-├─ Protect money: Web3 security, exploit validation, infra and approval gates
-└─ Build with leverage: AI agents, context, tools, memory and evidence trails
+AI-assisted batch rendering and client-ready visual presentations for architecture studios, starting with SketchUp workflows.
+
+**Proof:** public beta, SketchUp workflow, examples and changelog are live.<br />
+**My role:** product engineering, AI workflow design, credit controls, infrastructure and deployment reliability.
+
+### [Arremata Radar](https://arremataradar.com) · LIVE
+
+Verifiable property-opportunity intelligence with traceable sources, explainable scoring, risk and viability analysis.
+
+**Proof:** public search, coverage and evidence surfaces are live.<br />
+**My role:** product strategy, data and evidence contracts, multi-surface architecture and release gates.
+
+### [Auto Cortes](https://autocortes.com) · FOUNDER BETA
+
+Local-first workflow that turns long videos into reviewed vertical clips for creators, editors and small agencies.
+
+**Proof:** public Founder Beta flow is live; the core application remains private.<br />
+**My role:** product architecture, media pipeline, local/cloud execution boundaries and operational safety.
+
+> Production code is private where it contains commercial workflows or operational infrastructure. Every project above has a live public surface or inspectable case study.
+
+## More products and private R&D
+
+I have built more strong systems than I can push forward at the same time. I pause projects instead of pretending they are finished, preserve the work, and return when product priority and evidence justify the next cycle.
+
+### [Vultrix 3D](https://www.vultrix3d.com.br) · LIVE BETA
+
+Vertical SaaS for 3D-printing businesses: cost calculation, pricing, filament inventory and financial operations. The product surface is public; core code is private.
+
+### [VegaSec](https://vegasec.vercel.app) · PUBLIC SCAN / PRIVATE R&D
+
+Evidence-backed crypto risk reports for public repositories, tokens and verified contracts, with read-only scans, explicit limitations and fail-closed confidence.
+
+### Binance and Bybit systems · PRIVATE R&D
+
+Exchange adapters, signal engines, testnet workflows, backtests, monitoring and risk-control experiments across several private bots. No profitability or live-funds claim.
+
+### Polymarket systems · PRIVATE R&D
+
+Prediction-market dashboards, event monitors, AI-assisted market analysis and risk experiments. These are research artifacts and prototypes, not performance claims.
+
+### Agent and mobile labs · PAUSED / IN PREPARATION
+
+Mission-control dashboards, agent skills, persistent-memory experiments and Android product prototypes. Selected projects will return as priorities or sanitized public case studies.
+
+These systems are part of my engineering history, not inflated traction. I label live products, betas, internal tools, testnet/paper-trading systems and prototypes separately.
+
+## One founder-engineer, an agent-assisted delivery team
+
+I am the accountable founder-engineer behind JE4NDEV. I use a specialized team of AI agents as an engineering operating layer, not as a substitute for ownership.
+
+```text
+Jean: product direction, architecture, trade-offs and final accountability
+  └─ Sage: context, planning, orchestration and final integration
+      ├─ Scout: current research and external evidence
+      ├─ Builder: bounded implementation and reproducible delivery
+      └─ Critic: independent risk and acceptance review
+           ↓
+      tests + browser QA + API readback + human approval gates
 ```
 
----
+I define the goal, constraints and acceptance criteria. Agents help research, implement, test and review. I remain responsible for architecture, security boundaries, production decisions and the result that ships.
 
-## 🚀 What I can help with
+## Engineering strengths
 
-| Need | What I build |
-|---|---|
-| **Launch a SaaS or web app** | Next.js/React products with auth, payments, dashboards, APIs and deployment |
-| **Automate business operations** | WhatsApp, marketplace, CRM, financial and back-office workflows |
-| **Add AI agents to real workflows** | Tool-using agents, browser/CDP automation, memory, approval gates and evidence trails |
-| **Fix or ship internal tools fast** | Admin panels, data flows, integrations, scripts, VPS/Vercel/Supabase production fixes |
-| **Validate Web3/security risk** | Solidity/EVM review, Foundry PoCs, fork tests and practical exploit analysis |
+- **Product engineering:** SaaS, dashboards, authenticated workflows, payments, APIs and internal tools.
+- **AI-agent systems:** tool use, memory, browser/API operations, approvals, audit trails and fail-closed execution.
+- **Business automation:** marketplace, WhatsApp, CRM, back-office and operational workflows.
+- **Production operations:** Vercel, Linux VPS, Supabase/PostgreSQL, GitHub Actions, monitoring and recovery.
+- **Security:** authorization boundaries, secret handling, Solidity/EVM review and reproducible Foundry PoCs.
 
----
+## Main stack
 
-## 🧪 Selected builds
+`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `PostgreSQL` · `Supabase` · `Tailwind CSS` · `Vercel` · `Linux` · `Docker` · `Solidity` · `Foundry`
 
-| Build | Type | What it proves |
-|---|---|---|
-| [**je4ndev.com**](https://je4ndev.com) / [source](https://github.com/JE4NVRG/jeanvargas.dev) | Portfolio + service surface | Product positioning, frontend delivery and public proof |
-| [**Vultrix**](https://github.com/JE4NVRG/Vultrix) | Vertical SaaS / operations dashboard | Customers, jobs, pricing, operations, finance and workflow control |
-| [**MepChat landing**](https://github.com/JE4NVRG/mepchat-landing) | WhatsApp support product landing | Low-ticket SaaS packaging, offer clarity and conversion surface |
-| **Hermes/OpenClaw agent workflows** | AI agent operations | Local agents connected to tools, browsers, APIs, memory and approval gates |
-| **Smart contract security lab** | Web3/security research | Solidity review, Foundry PoCs, fork tests and exploit validation |
+## How I ship
 
-> Some production systems and client/internal workflows are private. The public repos show the execution style; the real value is shipping useful systems end-to-end.
+```text
+problem and user workflow
+→ smallest complete slice
+→ explicit security and mutation boundaries
+→ implementation with tests
+→ browser and API verification
+→ production evidence and readback
+```
 
----
+A build passing is not the same as a product working. I separate local validation, CI, deployment and the real authenticated user journey.
 
-## 🧠 Currently building
+## Work with JE4NDEV
 
-- AI-agent workflows for real operators, not just chat demos.
-- SaaS/internal tools for small teams that need speed and ownership.
-- Marketplace and WhatsApp automation systems for Brazilian businesses.
-- Practical Web3/security research with reproducible PoCs.
-- Productized services that help people **make or protect money**.
+Have a product that needs to be built, recovered or made reliable?
 
----
+**Email [jean@je4ndev.com](mailto:jean@je4ndev.com).**
 
-## 🕹️ Contribution arcade
+JE4NDEV treats client projects with founder-level ownership: clear scope, safe execution, specialized agents, tests, browser/API QA and an honest handoff. Your project is not passed into an anonymous automation loop; I remain accountable for the work and the final result.
 
-<div align="center">
-
-<img alt="Pac-Man contribution graph" width="100%" src="https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/pacman-contribution-graph.svg" />
-
-</div>
-
----
-
-## ⚙️ Main stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Linux VPS](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white)
-
-</div>
+[Explore the public portfolio and case studies →](https://je4ndev.com)
 
 <details>
-<summary><b>More tools I use</b></summary>
-
-<br />
-
-- **Frontend/Product:** React, Next.js, Vite, Tailwind, shadcn/ui, dashboards and admin panels.
-- **Backend/Data:** Node.js, REST APIs, PostgreSQL, Supabase, auth, storage and integrations.
-- **AI/Automation:** OpenAI, Anthropic/Claude, xAI/Grok, browser automation, cron jobs, tool routing and agent memory.
-- **Infra:** Vercel, Linux VPS, GitHub Actions, monitoring, deployment fixes and operational scripts.
-- **Security:** Solidity, Foundry, Slither, Echidna, fork tests and exploit PoCs.
-
-</details>
-
----
-
-## 🔐 Security research
-
-I focus on **real, reproducible vulnerabilities**.
-
-- Solidity / EVM smart contract review.
-- Foundry exploit PoCs and fork testing.
-- DeFi protocol analysis: accounting, liquidity, vaults, oracles, access control and upgrades.
-- Slither/Echidna-assisted review workflows.
-- Damn Vulnerable DeFi 18/18 with writeups.
-- Audit/contest experience across Sherlock, Cantina, CodeHawks and Immunefi.
-
----
-
-## 📈 GitHub activity snapshot
-
-Compact activity view focused on execution signals: contributions, commits, PRs, issues and private-work signals.
-
-| Signal | Current snapshot |
-|---|---:|
-| Contributions in the last year | **6,212** |
-| Public repositories | **50** |
-| Commits in the last year | **351** |
-| Pull requests in the last year | **31** |
-| Issues / ops items in the last year | **645** |
-| Private/restricted contributions | **5,143** |
-
-**Main public repo languages:** TypeScript · JavaScript · HTML · CSS · Solidity · Python
-
-<details>
-<summary><b>Optional GitHub charts</b></summary>
+<summary><b>Contribution graph and additional GitHub activity</b></summary>
 
 <br />
 
 <div align="center">
-
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JE4NVRG&theme=github_dark" />
-
-<br />
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JE4NVRG&theme=github_dark" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JE4NVRG&theme=github_dark" />
-
+  <img alt="Pac-Man contribution graph" width="100%" src="https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/pacman-contribution-graph.svg" />
 </div>
 
 </details>
@@ -168,10 +137,8 @@ Compact activity view focused on execution signals: contributions, commits, PRs,
 
 <div align="center">
 
-### Let's build something useful
+### Build useful systems. Keep humans in control. Verify what ships.
 
-**SaaS · AI agents · internal tools · marketplace automation · Web3 security**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563EB,100:0D1117" />
+[Portfolio](https://je4ndev.com) · [Email](mailto:jean@je4ndev.com) · [LinkedIn](https://www.linkedin.com/in/je4ndev/) · [X](https://x.com/JE4NVRG)
 
 </div>
