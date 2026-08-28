@@ -1,15 +1,21 @@
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile/je4ndev-profile-banner-mobile.svg" />
+  <img alt="JE4NDEV product engineering banner" width="100%" src="./assets/profile/je4ndev-profile-banner.svg" />
+</picture>
+
+<br />
+
 <div align="center">
 
-<h1>Jean Carlos Vargas</h1>
-<h3>Senior Full-Stack Product Engineer · Technical Founder</h3>
+### Senior Full-Stack Product Engineer · Technical Founder
 
-<p>I take full-stack SaaS and AI-assisted workflows from business problem to reliable production.</p>
+# I turn SaaS and AI workflows into reliable production systems.
 
-<p><strong><a href="https://je4ndev.com">View live products</a></strong><br />
-<a href="mailto:jean@je4ndev.com">jean@je4ndev.com</a></p>
-<p><a href="https://www.linkedin.com/in/je4ndev/">LinkedIn</a> · <a href="https://x.com/JE4NVRG">X @JE4NVRG</a></p>
+Founder-led product engineering from business problem to shipped, verified software.
 
-<p><strong>Open to remote Senior / Founding Engineer roles, selected contracts and product partnerships.</strong></p>
+**[View live products →](https://je4ndev.com)** · **[Contact me](mailto:jean@je4ndev.com)**
+
+🟢 **Open to selected remote Senior / Founding Engineer roles, contracts and product partnerships.**
 
 </div>
 
@@ -20,34 +26,38 @@
 Marketplace operations for Mercado Livre: research and margin, listing preparation, orders, stock and customer context with human approval before publishing.
 
 **Proof:** public product surface and guided demo are live.<br />
-**My role:** product direction, full-stack architecture, safety boundaries, production and acceptance QA.
+**My role:** product direction, full-stack architecture, safety boundaries, production and acceptance QA.<br />
+[Live product →](https://fullcommerce360.com)
 
 ### [ArchScene](https://archscene.com) · PUBLIC BETA
 
 AI-assisted batch rendering and client-ready visual presentations for architecture studios, starting with SketchUp workflows.
 
 **Proof:** public beta, SketchUp workflow, examples and changelog are live.<br />
-**My role:** product engineering, AI workflow design, credit controls, infrastructure and deployment reliability.
+**My role:** product engineering, AI workflow design, credit controls, infrastructure and deployment reliability.<br />
+[Public beta →](https://archscene.com)
 
 ### [Arremata Radar](https://arremataradar.com) · LIVE
 
 Verifiable property-opportunity intelligence with traceable sources, explainable scoring, risk and viability analysis.
 
 **Proof:** public search, coverage and evidence surfaces are live.<br />
-**My role:** product strategy, data and evidence contracts, multi-surface architecture and release gates.
+**My role:** product strategy, data and evidence contracts, multi-surface architecture and release gates.<br />
+[Live product →](https://arremataradar.com)
 
 ### [Auto Cortes](https://autocortes.com) · FOUNDER BETA
 
 Local-first workflow that turns long videos into reviewed vertical clips for creators, editors and small agencies.
 
 **Proof:** public Founder Beta flow is live; the core application remains private.<br />
-**My role:** product architecture, media pipeline, local/cloud execution boundaries and operational safety.
+**My role:** product architecture, media pipeline, local/cloud execution boundaries and operational safety.<br />
+[Founder Beta →](https://autocortes.com)
 
 > Production code is private where it contains commercial workflows or operational infrastructure. Every project above has a live public surface or inspectable case study.
 
 ## More products and private R&D
 
-I have built more strong systems than I can push forward at the same time. I pause projects instead of pretending they are finished, preserve the work, and return when product priority and evidence justify the next cycle.
+I have built more strong systems than I can push forward at the same time. I pause projects instead of pretending they are finished, preserve the work and return when product priority and evidence justify the next cycle.
 
 ### [Vultrix 3D](https://www.vultrix3d.com.br) · LIVE BETA
 
@@ -70,6 +80,12 @@ Prediction-market dashboards, event monitors, AI-assisted market analysis and ri
 Mission-control dashboards, agent skills, persistent-memory experiments and Android product prototypes. Selected projects will return as priorities or sanitized public case studies.
 
 These systems are part of my engineering history, not inflated traction. I label live products, betas, internal tools, testnet/paper-trading systems and prototypes separately.
+
+## Contribution activity
+
+<div align="center">
+  <img alt="Pac-Man contribution graph for JE4NVRG" width="100%" src="https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/pacman-contribution-graph.svg" />
+</div>
 
 ## One founder-engineer, an agent-assisted delivery team
 
@@ -121,17 +137,6 @@ Have a product that needs to be built, recovered or made reliable?
 JE4NDEV treats client projects with founder-level ownership: clear scope, safe execution, specialized agents, tests, browser/API QA and an honest handoff. Your project is not passed into an anonymous automation loop; I remain accountable for the work and the final result.
 
 [Explore the public portfolio and case studies →](https://je4ndev.com)
-
-<details>
-<summary><b>Contribution graph and additional GitHub activity</b></summary>
-
-<br />
-
-<div align="center">
-  <img alt="Pac-Man contribution graph" width="100%" src="https://raw.githubusercontent.com/JE4NVRG/JE4NVRG/output/pacman-contribution-graph.svg" />
-</div>
-
-</details>
 
 ---
 
