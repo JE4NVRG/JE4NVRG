@@ -21,6 +21,14 @@ Founder-led product engineering from business problem to shipped, verified softw
 
 ## What I am building now
 
+### [MepMail](https://mepmail.je4ndev.com) · PUBLIC BETA
+
+Transactional email API compatible with the Resend SDK, running on Amazon SES. Open beta, MCP server and CLI published on npm, cloud or self-hosted, with assisted DKIM and MAIL FROM onboarding.
+
+**Proof:** live product, docs, npm packages (`@mepmail/mcp`, `@mepmail/cli`) and the open-source repository are public.<br />
+**My role:** product direction, API and infrastructure engineering, SDK compatibility, release and acceptance QA.<br />
+[Live product →](https://mepmail.je4ndev.com) · [Source →](https://github.com/JE4NVRG/mepmail)
+
 ### [FullCommerce360](https://fullcommerce360.com) · LIVE
 
 Marketplace operations for Mercado Livre: research and margin, listing preparation, orders, stock and customer context with human approval before publishing.
